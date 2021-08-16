@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070783898559",
+    "project_id": "assgn-ky",
+    "storage_bucket": "assgn-ky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070783898559:android:9ceaf4ec3507a68e55370a",
+        "android_client_info": {
+          "package_name": "com.diatus.assgn_ky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070783898559-nv7f8p74acjd99p47gdg1jfagqhf7uch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pCL-uRawoxCH9CWgrh4wwFAjIyH6Dq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070783898559-nv7f8p74acjd99p47gdg1jfagqhf7uch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
